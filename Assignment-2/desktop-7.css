@@ -1,0 +1,88 @@
+.desktop-7-child {
+  position: absolute;
+  top: 71px;
+  left: 507px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 425px;
+  height: 100px;
+}
+.radisson-blu-hotel,
+.tami-nadu {
+  position: absolute;
+  font-weight: 900;
+}
+.tami-nadu {
+  top: 83px;
+  left: 552px;
+  font-size: var(--font-size-45xl);
+}
+.radisson-blu-hotel {
+  top: 203px;
+  left: 430px;
+}
+.desktop-7-child1,
+.desktop-7-inner,
+.desktop-7-item {
+  position: absolute;
+  top: 293px;
+  left: 989px;
+  width: 396px;
+  height: 244px;
+  object-fit: cover;
+}
+.desktop-7-child1,
+.desktop-7-inner {
+  left: 55px;
+}
+.desktop-7-child1 {
+  left: 522px;
+}
+.the-tamara-kodai {
+  position: absolute;
+  top: 600px;
+  left: 541px;
+  font-weight: 900;
+}
+.desktop-7-child2,
+.desktop-7-child3,
+.desktop-7-child4,
+.download-4-icon11 {
+  position: absolute;
+  top: 676px;
+  left: 55px;
+  width: 396px;
+  height: 244px;
+  object-fit: cover;
+}
+.desktop-7-child3,
+.desktop-7-child4,
+.download-4-icon11 {
+  left: 522px;
+}
+.desktop-7-child4,
+.download-4-icon11 {
+  left: 989px;
+}
+.download-4-icon11 {
+  top: 73px;
+  left: 14px;
+  width: 75px;
+  height: 75px;
+  mix-blend-mode: color-burn;
+  cursor: pointer;
+}
+.desktop-7 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #b4b4b8;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

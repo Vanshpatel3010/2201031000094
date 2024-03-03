@@ -1,0 +1,288 @@
+.desktop-8-child {
+  position: absolute;
+  top: 53px;
+  left: 116px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 1200px;
+  height: 100px;
+}
+.itc-narmada-a1 {
+  position: absolute;
+  top: 82px;
+  left: 199px;
+  font-size: var(--font-size-21xl);
+  font-weight: 900;
+}
+.desktop-8-inner,
+.desktop-8-item {
+  position: absolute;
+  top: 197px;
+  left: 52px;
+  background-color: var(--color-white);
+  width: 428px;
+  height: 697px;
+}
+.desktop-8-inner {
+  top: 830px;
+  left: 199px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-burlywood);
+  width: 133px;
+  height: 30px;
+  cursor: pointer;
+}
+.access-to-the,
+.higher-floor-with,
+.size-43-sq {
+  position: absolute;
+  top: 746px;
+  left: 152px;
+  font-family: var(--font-berkshire-swash);
+}
+.higher-floor-with,
+.size-43-sq {
+  top: 771px;
+  left: 170px;
+}
+.size-43-sq {
+  top: 721px;
+  left: 206px;
+  mix-blend-mode: normal;
+}
+.beautiful-rooms-are,
+.picked-amenities-and,
+.the-vibrant-arts {
+  position: absolute;
+  top: 637px;
+  left: 91px;
+  font-size: var(--font-size-base);
+}
+.picked-amenities-and,
+.the-vibrant-arts {
+  top: 656px;
+  left: 80px;
+}
+.the-vibrant-arts {
+  top: 619px;
+  left: 100px;
+}
+.backed-by-efficient,
+.towers-room,
+.undeniably-luxurious-with {
+  position: absolute;
+  top: 679px;
+  left: 159px;
+  font-size: var(--font-size-base);
+}
+.towers-room,
+.undeniably-luxurious-with {
+  top: 600px;
+  left: 82px;
+}
+.towers-room {
+  top: 541px;
+  left: 137px;
+  font-size: var(--font-size-21xl);
+  font-weight: 300;
+}
+.desktop-8-child1 {
+  position: absolute;
+  top: 197px;
+  left: 512px;
+  background-color: var(--color-white);
+  width: 428px;
+  height: 697px;
+}
+.desktop-8-child2 {
+  position: absolute;
+  top: 833px;
+  left: 605px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-burlywood);
+  width: 230px;
+  height: 30px;
+  cursor: pointer;
+}
+.reserve-a-table {
+  position: absolute;
+  top: 836px;
+  left: 628px;
+  font-weight: 900;
+  color: var(--color-white);
+}
+.northwest-frontier,
+.relaxed {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.operational-period-lunch {
+  margin: 0;
+}
+.northwest-frontier-relaxed-container {
+  position: absolute;
+  top: 730px;
+  left: 569px;
+  font-family: var(--font-berkshire-swash);
+}
+.peshawri {
+  position: absolute;
+  top: 541px;
+  left: 641px;
+  font-size: var(--font-size-21xl);
+  font-weight: 300;
+}
+.desktop-8-child3 {
+  position: absolute;
+  top: 201px;
+  left: 972px;
+  background-color: var(--color-white);
+  width: 428px;
+  height: 697px;
+}
+.itc-1-1 {
+  position: absolute;
+  top: 261px;
+  left: 70px;
+  width: 388px;
+  height: 240px;
+  object-fit: cover;
+}
+.book-now {
+  position: absolute;
+  top: 833px;
+  left: 216px;
+  font-weight: 900;
+  color: var(--color-white);
+}
+.itc2-1-icon {
+  position: absolute;
+  top: 264px;
+  left: 560px;
+  width: 332.7px;
+  height: 240px;
+  object-fit: cover;
+}
+.itc-narmada-ahmedabad {
+  position: absolute;
+  top: 585px;
+  left: 605px;
+  font-family: var(--font-berkshire-swash);
+}
+.an-award-winning-restaurant,
+.bread-from-the,
+.delicacies-like-dal,
+.savour-a-delectable,
+.the-robust-flavours {
+  margin: 0;
+}
+.an-award-winning-restaurant-container {
+  position: absolute;
+  top: 623px;
+  left: 544px;
+  font-size: var(--font-size-base);
+}
+.these-extraordinary-suites {
+  margin: 0;
+}
+.and-a-separate {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.imaginative-colour-palette {
+  margin: 0;
+}
+.bespoke-amenities-complete,
+.experience {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.these-extraordinary-suites-container {
+  position: absolute;
+  top: 623px;
+  left: 998px;
+  font-size: var(--font-size-base);
+}
+.itc3-1-icon {
+  position: absolute;
+  top: 272px;
+  left: 992px;
+  width: 388px;
+  height: 240px;
+  object-fit: cover;
+}
+.deluxe-suite {
+  position: absolute;
+  top: 541px;
+  left: 1069px;
+  font-size: var(--font-size-21xl);
+  font-weight: 300;
+}
+.express-check-in,
+.size-80-sq {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.hour-butler-service {
+  margin: 0;
+}
+.size-80-sq-container {
+  position: absolute;
+  top: 730px;
+  left: 1093px;
+  font-family: var(--font-berkshire-swash);
+}
+.desktop-8-child4 {
+  position: absolute;
+  top: 833px;
+  left: 1119px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-burlywood);
+  width: 133px;
+  height: 30px;
+}
+.book-now1,
+.download-4-icon12 {
+  position: absolute;
+  cursor: pointer;
+}
+.book-now1 {
+  top: 836px;
+  left: 1136px;
+  font-weight: 900;
+  color: var(--color-white);
+}
+.download-4-icon12 {
+  top: 73px;
+  left: 14px;
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+  mix-blend-mode: color-burn;
+}
+.location-dot-solid-1-icon,
+.location-dot-solid-2-icon {
+  position: absolute;
+  top: 66px;
+  left: 1350px;
+  width: 50px;
+  height: 74px;
+  overflow: hidden;
+}
+.location-dot-solid-2-icon {
+  cursor: pointer;
+}
+.desktop-8 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #b4b4b8;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,91 @@
+.desktop-5-child {
+  position: absolute;
+  top: 44px;
+  left: 478px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 483px;
+  height: 100px;
+}
+.maharashtra1 {
+  position: absolute;
+  top: 56px;
+  left: 514px;
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  font-weight: 900;
+  width: 435px;
+}
+.itc-maratha-a,
+.the-taj-mahal {
+  position: absolute;
+  top: 178px;
+  left: 451px;
+  font-weight: 900;
+  cursor: pointer;
+}
+.itc-maratha-a {
+  top: 571px;
+  left: 262px;
+}
+.desktop-5-child1,
+.desktop-5-inner,
+.desktop-5-item {
+  position: absolute;
+  top: 268px;
+  left: 527px;
+  width: 396px;
+  height: 244px;
+  object-fit: cover;
+}
+.desktop-5-child1,
+.desktop-5-inner {
+  left: 990px;
+}
+.desktop-5-child1 {
+  left: 64px;
+}
+.desktop-5-child2,
+.desktop-5-child3,
+.desktop-5-child4,
+.download-4-icon9 {
+  position: absolute;
+  top: 674px;
+  left: 64px;
+  width: 396px;
+  height: 244px;
+  object-fit: cover;
+}
+.desktop-5-child3,
+.desktop-5-child4,
+.download-4-icon9 {
+  top: 684px;
+  left: 527px;
+}
+.desktop-5-child4,
+.download-4-icon9 {
+  top: 674px;
+  left: 989px;
+}
+.download-4-icon9 {
+  top: 73px;
+  left: 14px;
+  width: 75px;
+  height: 75px;
+  mix-blend-mode: color-burn;
+  cursor: pointer;
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #b4b4b8;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

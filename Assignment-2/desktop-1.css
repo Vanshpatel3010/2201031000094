@@ -1,0 +1,71 @@
+.download-5-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.hotel-dekho {
+  position: absolute;
+  top: 192px;
+  left: 107px;
+  font-family: var(--font-jacques-francois);
+  display: inline-block;
+  width: 1226px;
+  height: 182px;
+}
+.desktop-1-child {
+  position: absolute;
+  top: 832px;
+  left: 1017px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro-100);
+  width: 357px;
+  height: 101px;
+  mix-blend-mode: exclusion;
+  cursor: pointer;
+}
+.explore1 {
+  position: absolute;
+  top: 832px;
+  left: 1058px;
+  font-size: 75px;
+  font-weight: 700;
+  text-align: left;
+}
+.travel-should-take {
+  position: absolute;
+  top: 0;
+  left: 51px;
+  font-size: var(--font-size-36xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 1007px;
+  height: 82px;
+  mix-blend-mode: overlay;
+}
+.user-solid-1-icon {
+  position: absolute;
+  top: 16px;
+  left: 1361px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  opacity: 0.72;
+  cursor: pointer;
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #b4b4b8;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 128px;
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,154 @@
+.desktop-2-child {
+  position: absolute;
+  top: 52px;
+  left: 420px;
+  background-color: var(--color-gainsboro-100);
+  width: 600px;
+  height: 920px;
+}
+.create-new,
+.dont-have-an {
+  position: absolute;
+  top: 665px;
+}
+.create-new {
+  left: 739px;
+  font-weight: 600;
+  color: var(--color-burlywood);
+}
+.dont-have-an {
+  left: 474px;
+}
+.log-in,
+.or-login-with {
+  position: absolute;
+  top: 767px;
+  left: 644px;
+}
+.log-in {
+  top: 79px;
+  left: 626px;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+}
+.email-id {
+  top: 204px;
+  font-size: var(--font-size-13xl);
+}
+.desktop-2-item,
+.email-id,
+.password {
+  position: absolute;
+  left: 474px;
+}
+.desktop-2-item {
+  top: 255px;
+  background-color: var(--color-white);
+  width: 460px;
+  height: 55px;
+}
+.password {
+  top: 358px;
+  font-size: var(--font-size-13xl);
+}
+.forgot-password {
+  position: absolute;
+  top: 537px;
+  left: 731px;
+  font-weight: 600;
+  color: var(--color-burlywood);
+}
+.desktop-2-inner {
+  position: absolute;
+  top: 409px;
+  left: 474px;
+  background-color: var(--color-white);
+  width: 460px;
+  height: 55px;
+}
+.eye-slash-regular-1-icon {
+  position: absolute;
+  top: 414px;
+  left: 883px;
+  width: 40px;
+  height: 46px;
+  overflow: hidden;
+}
+.desktop-2-child1 {
+  position: absolute;
+  top: 512px;
+  left: 474px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-burlywood);
+  width: 181px;
+  height: 68px;
+  cursor: pointer;
+}
+.log-in1 {
+  position: absolute;
+  top: 499px;
+  left: 501px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-white);
+}
+.desktop-2-child2,
+.line-div {
+  position: absolute;
+  top: 781px;
+  left: 473px;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 167.2px;
+  height: 2px;
+}
+.desktop-2-child2 {
+  left: 799px;
+}
+.desktop-2-child3 {
+  position: absolute;
+  top: 848px;
+  left: 520px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-burlywood);
+  width: 400px;
+  height: 68px;
+}
+.sing-in-with {
+  position: absolute;
+  top: 862px;
+  left: 595px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.circle-xmark-regular-1-icon,
+.google-1-icon {
+  position: absolute;
+  top: 859px;
+  left: 535px;
+  width: 45px;
+  height: 45px;
+  overflow: hidden;
+}
+.circle-xmark-regular-1-icon {
+  top: 64px;
+  left: 981px;
+  width: 30px;
+  height: 30px;
+  opacity: 0.51;
+  cursor: pointer;
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #b4b4b8;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

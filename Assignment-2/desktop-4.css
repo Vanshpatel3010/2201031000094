@@ -1,0 +1,105 @@
+.desktop-4-child {
+  position: absolute;
+  top: 52px;
+  left: 507px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 425px;
+  height: 100px;
+}
+.gujarat1 {
+  position: absolute;
+  top: 64px;
+  left: 601px;
+  font-size: var(--font-size-45xl);
+  font-weight: 900;
+}
+.desktop-4-item {
+  position: absolute;
+  top: 188.5px;
+  left: 39.5px;
+  width: 1356px;
+  height: 351px;
+}
+.itc-narmada-a,
+.the-leela-gandhinagar {
+  position: absolute;
+  top: 197px;
+  left: 251px;
+  font-weight: 900;
+  cursor: pointer;
+}
+.the-leela-gandhinagar {
+  top: 596px;
+  left: 507px;
+}
+.desktop-4-child1,
+.desktop-4-child2,
+.desktop-4-child3,
+.desktop-4-inner {
+  position: absolute;
+  top: 267px;
+  left: 121px;
+  width: 396px;
+  height: 244px;
+  object-fit: cover;
+}
+.desktop-4-child1,
+.desktop-4-child2,
+.desktop-4-child3 {
+  top: 271px;
+  left: 561px;
+}
+.desktop-4-child2,
+.desktop-4-child3 {
+  top: 267px;
+  left: 999px;
+}
+.desktop-4-child3 {
+  top: 672px;
+  left: 111px;
+}
+.desktop-4-child4 {
+  position: absolute;
+  top: 938px;
+  left: 596px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.desktop-4-child5,
+.desktop-4-child6,
+.download-4-icon8 {
+  position: absolute;
+  top: 672px;
+  left: 561px;
+  width: 396px;
+  height: 244px;
+  object-fit: cover;
+}
+.desktop-4-child6,
+.download-4-icon8 {
+  left: 1000px;
+}
+.download-4-icon8 {
+  top: 73px;
+  left: 14px;
+  width: 75px;
+  height: 75px;
+  mix-blend-mode: color-burn;
+  cursor: pointer;
+}
+.desktop-4 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #b4b4b8;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

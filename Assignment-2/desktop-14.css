@@ -1,0 +1,139 @@
+.book-room {
+  position: absolute;
+  top: 51px;
+  left: 57px;
+  font-size: var(--font-size-45xl);
+}
+.booking-date,
+.name {
+  position: absolute;
+  top: 199px;
+  left: 59px;
+}
+.booking-date {
+  left: 844px;
+}
+.moblie-noemail,
+.number-of-guests {
+  position: absolute;
+  top: 380px;
+  left: 57px;
+}
+.number-of-guests {
+  top: 561px;
+}
+.desktop-14-child,
+.desktop-14-child1,
+.desktop-14-inner,
+.desktop-14-item {
+  position: absolute;
+  top: 247px;
+  left: 57px;
+  background-color: var(--color-white);
+  width: 710px;
+  height: 60px;
+}
+.desktop-14-child1,
+.desktop-14-inner,
+.desktop-14-item {
+  top: 426px;
+}
+.desktop-14-child1,
+.desktop-14-inner {
+  top: 605px;
+}
+.desktop-14-child1 {
+  top: 733px;
+  left: 59px;
+  width: 708px;
+  height: 233px;
+}
+.additional-information {
+  position: absolute;
+  top: 740px;
+  left: 90px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.desktop-14-child2,
+.desktop-14-child3 {
+  position: absolute;
+  top: 247px;
+  left: 844px;
+  background-color: var(--color-white);
+  width: 417px;
+  height: 60px;
+}
+.desktop-14-child3 {
+  top: 426px;
+}
+.i {
+  position: absolute;
+  top: 434px;
+  left: 870px;
+}
+.eg-for-13,
+.solve-this-simple {
+  margin: 0;
+}
+.solve-this-simple-container {
+  position: absolute;
+  top: 503px;
+  left: 844px;
+  font-size: var(--font-size-5xl);
+}
+.arrows-rotate-solid-1-icon {
+  position: absolute;
+  top: 434px;
+  left: 1206px;
+  width: 40px;
+  height: 46px;
+  overflow: hidden;
+}
+.desktop-14-child4 {
+  position: absolute;
+  top: 605px;
+  left: 844px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-burlywood);
+  width: 230px;
+  height: 68px;
+}
+.submit {
+  position: absolute;
+  top: 592px;
+  left: 882px;
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-white);
+}
+.desktop-14-child5 {
+  position: absolute;
+  top: 605px;
+  left: 1080px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-burlywood);
+  width: 181px;
+  height: 68px;
+  cursor: pointer;
+}
+.back {
+  position: absolute;
+  top: 592px;
+  left: 1110px;
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-white);
+}
+.desktop-14 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #b4b4b8;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
